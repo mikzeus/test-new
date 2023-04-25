@@ -1,0 +1,16 @@
+Repository: Bizim bir projemizi version control sistemine tabi tutmak istedigimizde her bir projemizi ayri bir yapida tutulur.
+   Bu ayri yapiya repository denir. Genellikle her proje icin ayri bir repository tanimlanir.
+   Local repo olusturma
+   git init komutu kullanildiginda proje klasorunde git klasoru olusturulur.
+   Projeye lokalden ya da remote’dan baslayabiliriz. Lokalede bilgisayarimizda bir proje baslatip,
+   onu gelistirdikce onu github’a yonlendirebiliriz ya da github’da baslangicta bir repository olusturup, projemize orada baslayabiliriz.
+  
+ Bireysel olarak olusturdugumuz projelerimiz icin lokalde baslayabiliriz.
+   Ancak halihazirda baslatilmis bir proje uzerinde calismamiz halinde boyle bir proje remote’da repository olarak baslatilmis olur ve daha sonra biz bu projeyi kendi lokalimize aliriz.
+   Lokalde olusturdugumuz projeyi VKS’ye tabi tutmak istersek, projemizin oldugu dosya icinde isminin yazili oldugu dosya yolu olarak sayilan kismi silip yerine cmd yazip enter yapinca terminal aciliyor.
+   Yani terminal o dosyamiz icinden acilmis olur.
+
+version 1
+------------------------------------------------------------------
+
+

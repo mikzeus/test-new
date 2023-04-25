@@ -1,0 +1,2 @@
+Working Space: .git klasorunun bulundugu calisma alanidir. Klasorler ve dosylara uzerinden degisiklik burada yapilir. Az once yaptigimiz islemlerle .git klasorumuz olustu. Bu klasor bizim icin working space’dir.
+Staging Area: Versiyon olusturulacak olan dosya veya klasorlerin gecici olarak toplandigi yerdir. Versiyon(commit) olusturulduktan sonra otomatik olarak staging area bosaltilir. Staging area bir bekleme salonu gibi dusunulebilir. Henuz bir degisiklik yapmadik ancak degisiklik yapmayi dusundugumuz bolumleri gecici olarak bu alanda tutariz.
