@@ -13,4 +13,9 @@ Repository: Bizim bir projemizi version control sistemine tabi tutmak istedigimi
 version 1
 ------------------------------------------------------------------
 
+git commit -m komutu mesj verek versio oluştrumamızı sağlar
+
+version 2
+-----------------------------------------------------------------
+
 
