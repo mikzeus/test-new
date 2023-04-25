@@ -17,5 +17,8 @@ git commit -m komutu mesj verek versio oluştrumamızı sağlar
 
 version 2
 -----------------------------------------------------------------
-
+git commit -am"v2" : add+commit komutlarını birlikte kullanmamı sağlar.
+ancak bu komutu kullanabilmek için bir kere add komutu kullanılmış olmalı.
+version3
+-------------------------------------
 
